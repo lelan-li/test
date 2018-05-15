@@ -7,7 +7,6 @@
 
 config = {
     'vggf_model_path': 'model_zoo/imagenet-vgg-f.mat',
-    'flickr_path': '/home/lining/CVPR/data/FLICKR-25K.mat',
     'image_size': [224, 224, 3],
     'nuswide': {'image': 'data/nuswide/Img.h5',
                 'label': 'data/nuswide/Lab.h5'},
